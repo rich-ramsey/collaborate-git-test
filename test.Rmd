@@ -22,3 +22,6 @@ This is some text that will not be deleted.
 
 Testing..
 
+## New section ##
+
+test
