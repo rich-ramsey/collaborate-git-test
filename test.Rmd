@@ -18,14 +18,11 @@ This is a test file for collaborating in git and via github.
 
 This is some text that will not be deleted. 
 
-## Sven
+## Sven 2
 
 
-<<<<<<< HEAD
+
 Testing..6
-=======
-Testing..5
->>>>>>> c3ddb8b3bd3e1f710c71da84db5a7cb79c961082
 
 
 ## New section ##
